@@ -1,1 +1,1 @@
-tThis repository is a portfolio of works in Cybersecurity, Cloud security, Artificial Intelligence and Machine Learning
+This repository is a portfolio of works in Cybersecurity, Cloud Security, Artificial Intelligence and Machine Learning
